@@ -1,0 +1,210 @@
+<resources>
+    <string name="app_name">Cancionero</string>
+
+    <string name = "himnoNacional">   I
+        Bolivianos: el hado propicio\n
+        coronó nuestros votos y anhelo;\n
+        es ya libre, ya libre este suelo,\n
+        ya cesó su servil condición.\n\n
+        Al estruendo marcial que ayer fuera\n
+        y al clamor de la guerra horroroso\n
+        siguen hoy, en contraste armonioso,\n
+        dulces himnos de paz y de unión.\n\n
+        II\n\n
+        Loor eterno a los bravos guerreros,\n
+        cuyo heroico valor y firmeza\n
+        conquistaron las glorias que empieza\n
+        hoy Bolivia feliz a gozar.\n
+        Que sus nombres el mármol y el bronce\n
+        a remotas edades trasmitan\n
+        y en sonoros cantares repitan:\n
+        Libertad, libertad,libertad.\n\n
+        III\n\n
+        Aquí alzó la justicia su trono\n
+        que la vil opresión desconoce,\n
+        y en su timbre glorioso legose\n
+        libertad, libertad, libertad.\n
+        Esta tierra inocente y hermosa\n
+        que ha debido a Bolívar su nombre\n
+        es la patria feliz donde el hombre\n
+        goza el bien de la dicha y la paz.\n\n
+        IV\n\n
+        Si extranjero poder alqún día\n
+        sojuzgar a Bolivia intentare,\n
+        al destino fatal se prepare\n
+        que amenaza a soberbio invasor.\n
+        Que los hijos del grande Bolívar\n
+        han ya mil y mil veces jurado\n
+        morir antes que ver humillado\n
+        de la patria el augusto pendón.\n\n
+        Coro\n\n
+        De la patria el alto nombre\n
+        en glorioso esplendor conservemos\n
+        y en sus aras de nuevo juremos\n
+        ¡Morir antes que esclavos vivir!   </string>
+
+    <string name = "laPaz">La Paz, que en este día\n
+        de Julio se engalana\n
+        con timbres de que ufana\n
+        recuerda su esplendor.\n
+        Patriótica armonía\n
+        de pueblos cuya historia\n
+        ligada esta en la gloria\n
+        de su ínclito valor.\n\n
+        CORO\n\n
+        Saludando de Julio el gran día,\n
+        que es el pueblo paceño blasón\n
+        celebremos con grata armonía\n
+        de valientes y libres la unión.\n
+
+        Los timbres de su fama \n
+        la America en un templo conserva\n
+        como ejemplo de honor y de virtud.\n
+        Y al fuego que la inflama,\n
+        su suelo viendo hollado\n
+        se inspire en el pasado\n
+        su heroica juventud.\n
+        Titánicos guerreros\n
+        del cielo como gracia,\n
+        la invicta democracia  nos dieron por pendón.\n
+        Si alguno hollar sus fueros\n
+        intenta en lo futuro\n
+        será de bronce un muro de América la unión. </string>
+
+    <string name = "cocha">Brilla el sol de Septiembre radiante\n
+        reflejando la gloria inmortal\n
+        del gran pueblo que firme y constante\n
+        fue primero en la lucha marcial.\n
+        Libertad del Tunari en la cumbre\n
+        ya su solio por siempre fijo;\n
+        la cadena de vil servidumbre\n
+        Cochabamba esforzada rompió.\n
+        De sus hijos el noble ardimiento\n
+        su altivez y denuedo sin par\n
+        despertaron el bélico aliento\n
+        de cien pueblos que van a luchar.\n
+        Suena entonces el grito de gloria\n
+        y se enciende la guerra por fin\n
+        sus jornadas de eterna memoria\n
+        son Aroma, Ayacucho y Junín.\n
+        Sus proezas de fama pregona\n
+        de una en otra apartada región,\n
+        y sus timbres preclaros blasona,\n
+        Ley, deber, patriotismo y union.  </string>
+
+    <string name = "santaCruz">La España Grandiosa\n
+        Con hado benigno\n
+        aquí planto el signo\n
+        de la redención.\n
+        Y surgió a su sombra\n
+        un pueblo eminente\n
+        de límpida frente\n
+        de leal corazón.\n
+        Bajo el cielo más puro de América\n
+        y en la sierra de Ñuflo de Chavez,\n
+        Libertad van trinando las aves\n
+        de su veste ostentando el primor.\n
+        De las flores del mundo galano su ambrosía perfumada ofreciendo Libertad,\n
+        Libertad van diciendo en efluvios de paz y de amor.\n
+        Siempre libres, cruceños, seamos\n
+        cual lo son nuestras aves y flores,\n
+        y sepamos vencer los rigores\n
+        del que intente a la Patria oprimir.\n
+        Nuestros nombres en tal hora con sangre en la historia dejemos escrito,\n
+        repitiendo de Warnes el grito:\n
+        "A vencer o con gloria morir". </string>
+
+    <string name = "laPatria">La patria es el amor\n
+        Es la dicha es el hogar\n
+        Es el afecto al altar\n
+        Es consuelo en el dolor\n\n
+
+        Es el más santo cariño\n
+        Aquello que más se adora\n
+        Por ella el anciano llora\n
+        Por ella sonríe el niño\n\n
+
+        Por ella el pecho suspira\n
+        Por ella el alma se inquieta\n
+        Por ella tiene el poeta\n
+        Tanta dulzura en su lira\n\n
+
+        A ella van los ojos fijos\n
+        En el goce o la tristeza\n
+        Por ella la madre reza\n
+        Al rezar para sus hijos\n\n
+
+        La patria\n
+        Es el torrente, es el mar\n
+        Es arroyo, es laguna\n
+        Es nuestro sepulcro y cuna\n
+        Nuestra madre y nuestro hogar\n\n
+
+        La patria\n
+        Es la palmera gigante\n
+        Es el musgo de la grieta\n
+        Es la azulada violeta\n
+        Es la azucena fragante\n
+
+        La patria\n
+        Es el sol que nos alumbra\n
+        El aire que nos refresca\n
+        Es la cabaña grotesca\n
+        Y el alcanzar que deslumbra\n\n
+
+        Es el verde y grato suelo\n
+        Sembrado de flores bellas\n
+        Es ese mundo de estrellas\n
+        Que fulguran en el cielo\n\n
+
+        Es el ruiseñor que canta\n
+        Es la paloma que pía\n
+        Es el moribundo día\n
+        Y el astro que se levanta\n\n
+
+        La patria\n
+        Es el torrente, es el mar\n
+        Es arroyo, es laguna\n
+        Es nuestro sepulcro y cuna\n
+        Nuestra madre y nuestro hogar\n\n
+
+        La patria\n
+        Es la palmera gigante\n
+        Es el musgo de la grieta\n
+        Es la azulada violeta\n
+        Es la azucena fragante\n\n
+
+        La patria\n
+        Es el sol que nos alumbra\n
+        El aire que nos refresca\n
+        Es la cabaña grotesca\n
+        Y el alcanzar que deslumbra\n
+        La patria!!!\n\n</string>
+
+    <string name = "colorados">Con la gran marcha militar\n
+        de los colorados\n
+        avancemos rumbo al ideal\n
+        a paso marcial.\n
+        El ondulante palpitar\n
+        de nuestra bandera\n
+        lleva ya su rumor de mar\n
+        hasta nuestro hogar.\n
+        Hay que escuchar el sonoro raudal\n
+        de nuestra tricolor tendida al Litoral\n
+        y el del clarín que aumentará nuestro fervor.\n
+        Hay que salvar con sereno valor\n
+        la única senda que dió el boliviano honor\n
+        ha de encontrar el esplendor de lo que fué.\n
+        Vibró el clarín desde el monte\n
+        hasta el mar oíd el épico son,\n
+        que ha de avivar la luz de la fe.\n
+        Vibró el clarín. Boliviano oíd.\n
+        Marchemos con hondo afán\n
+        a conquiatar un haz de laurel.\n
+        Gloria al campeón\n
+        que con desdén\n
+        fue contra cien\n
+        de una legión.</string>
+    <string name="thumbnail">thumbnail</string>
+
+</resources>

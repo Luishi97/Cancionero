@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.luishi.cancionero.MainActivity"
+    android:background="@mipmap/prim">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="438dp"
+        app:srcCompat="@mipmap/prim" />
+
+    <Button
+        android:layout_width="394dp"
+        android:layout_height="77dp"
+        android:drawableBottom="@android:drawable/ic_lock_power_off"
+        android:onClick="cambiar"
+        android:text="Ingresar" />
+
+</LinearLayout>
